@@ -1,10 +1,14 @@
-/* 
-Them Name: WordPress Learning
-Them URI: #
+/*  
+Theme Name: WordPress Learning
+Theme URI: #
 Version: 1.0.0
-Author: Shahriar Rahman Shakil
+Author: Shahriar Rahman
 Text Domain: shahriarrahmanshakil
 Description: This is my new theme, I am learning wordpress.
-Tag: 
-
+Requires at least: 6.4
+Tested up to: 6.5
+Requires PHP: 7.0
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news 
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
