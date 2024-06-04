@@ -1,0 +1,11 @@
+/* Common css */
+img{ 
+    height: 30px;
+    width: 30px;
+}
+
+/* header */
+#header_area{
+    padding: 20px 0px;
+}
+
